@@ -1,6 +1,5 @@
 %%% John Diefenbaker Secondary School
 %%% TEJ3MI
-%%% Mr Bailey
 %%% Anton Concheiro
 
 
