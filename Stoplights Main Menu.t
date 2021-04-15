@@ -1,5 +1,3 @@
-%%% John Diefenbaker Secondary School
-%%% TEJ3MI
 %%% Anton Concheiro
 
 
